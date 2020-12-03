@@ -1,2 +1,2 @@
 # ts-playground
-TypeScript Playground
+TypeScript Playground for Bona
